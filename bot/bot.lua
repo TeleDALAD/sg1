@@ -247,7 +247,7 @@ function create_config( )
       "persian_lang",
       "rules"
      },
-    sudo_users = {81444630},
+    sudo_users = {81444630,175623013},
     admin_users = {},
     disabled_channels = {}
   }
