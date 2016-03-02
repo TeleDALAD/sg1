@@ -34,7 +34,7 @@ return {
   description = "Searches Google and send results",
   usage = "!google [terms]: Searches Google and send results",
   patterns = {
-    "^[g|G]oogle (.*)$"
+    "^#google (.*)$"
   },
   run = run
 }
