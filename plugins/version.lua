@@ -14,7 +14,7 @@
 do
 
 function run(msg, matches)
-  return 'A H D Bot V1 Supergroups\n\nDevelopers :\n@sudo_ashi\n\nSupport :\n@sudo_ashi' 
+  return 'A H D Bot V1 Supergroups\n\nDevelopers :\n@sudo_ashi\n\nSupport :\n@sudo_ashi\n@Dlt_Admin_2' 
   --[[ساخته شده توسط @sudo_ashi]]
 end
 
